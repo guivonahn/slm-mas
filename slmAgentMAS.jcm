@@ -1,0 +1,12 @@
+mas slmAgentMAS {
+
+    agent bob: translator.asl{
+      join: w
+      focus: w.translator
+    }
+
+    workspace w {
+      artifact translator: env.Translator()
+    }
+
+}
