@@ -11,3 +11,5 @@ the model used for this test is rhaymison/opus-en-to-pt-translator via HUGGING F
 
 <img width="834" height="133" alt="image" src="https://github.com/user-attachments/assets/900e1674-5858-42c8-b930-e095ff14b86e" />
 <img width="325" height="124" alt="image" src="https://github.com/user-attachments/assets/69175e1b-575a-4df9-9012-ab605be5e766" />
+<img width="352" height="117" alt="image" src="https://github.com/user-attachments/assets/e125a387-79eb-4821-9ae6-fa4bdb13a655" />
+<img width="955" height="592" alt="image" src="https://github.com/user-attachments/assets/e3821a84-3caa-4a0b-95e1-328980fd3b2e" />
