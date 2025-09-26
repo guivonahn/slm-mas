@@ -7,3 +7,7 @@ how to use?
 
 
 the model used for this test is rhaymison/opus-en-to-pt-translator via HUGGING FACE
+
+
+<img width="834" height="133" alt="image" src="https://github.com/user-attachments/assets/900e1674-5858-42c8-b930-e095ff14b86e" />
+<img width="325" height="124" alt="image" src="https://github.com/user-attachments/assets/69175e1b-575a-4df9-9012-ab605be5e766" />
